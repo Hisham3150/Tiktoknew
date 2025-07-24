@@ -1,0 +1,3 @@
+pip install httpx
+pip install ms4
+pip install Crypto
